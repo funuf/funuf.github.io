@@ -12,8 +12,8 @@ layout: default
 
     {% if page.date %}
       <!-- <br> -->
-      <span>写于</span>
-      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%Y-%m-%d" }}</time>
+      <span>书于</span>
+      <span>&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%Y年%m月%日" }}</time>
     {% endif %}
   </div>
 
@@ -35,5 +35,5 @@ layout: default
     <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
   {% endif %}
 
-  <a href="#" class="top">回到顶部</a>
+  <a href="#" class="top">☯</a>
 </div>
