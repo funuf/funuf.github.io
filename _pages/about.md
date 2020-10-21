@@ -5,11 +5,4 @@ author: "Chester"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
-
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
-
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
+祖孙二人居住在山区庄园里，爷爷每天清晨都坚持读书，孙子受爷爷的影响，也尽自己最大的能力阅读书籍。有一天，他问爷爷：“我也每天读书，可我不能真正地理解它，那读书有什么用呢？”爷爷拿来一个装煤的竹篮，让孙子去打水，一趟，两趟，三趟……孙子以最快的速度跑回家，可竹篮总是空空如也。“竹篮是不能打到水的！”孙子说，可爷爷让他仔细看看篮子：原来黑乎乎、脏兮兮的竹篮变得洁净如新了。“孩子，阅读好书也是如此。”爷爷语重心长地说：“你可能无法完全理解它，也记不住多少内容，但只要你用心阅读它，它就会在不知不觉中净化了你的心灵。”
