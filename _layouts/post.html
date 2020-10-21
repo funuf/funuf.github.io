@@ -4,7 +4,6 @@ layout: default
 
 <div class="post">
   <div class="post-info">
-    <span>写于</span>
     <!-- {% if page.author %} -->
         <!-- {{ page.author }} -->
     <!-- {% else %} -->
@@ -13,6 +12,7 @@ layout: default
 
     {% if page.date %}
       <!-- <br> -->
+      <span>写于</span>
       <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%Y-%m-%d" }}</time>
     {% endif %}
   </div>
