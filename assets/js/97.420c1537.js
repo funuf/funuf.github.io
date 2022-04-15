@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[97],{455:function(t,e,n){"use strict";n.r(e);var s=n(23),l=Object(s.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("imgv",{attrs:{v:"/img/wallpaper/国画/3.jpg"}})],1)}),[],!1,null,null,null);e.default=l.exports}}]);
